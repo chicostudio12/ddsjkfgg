@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10",IPL 2026
+#EXTVLCOPT:referer=https://sportslivenow.top/
+#EXTVLCOPT:origin=https://sportslivenow.top
+https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8?sign=e7f64b8991c73e64fbc91dc079c7a668&t=1775661485
