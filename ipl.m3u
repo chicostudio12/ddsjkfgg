@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10",IPL 2026
-#EXTVLCOPT:referer=https://sportslivenow.top/
-#EXTVLCOPT:origin=https://sportslivenow.top
-https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8?sign=962c34c32b9568be596da0eade4af2d6&t=1775915160
+#EXTINF:-1 tvg-id="" group-title="⚡ LIVE TV" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png",IND vs NZ 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
